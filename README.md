@@ -32,4 +32,12 @@
 [Запустить результат](https://gavrashenko.github.io/3d-lessons/lesson3/) | 
 [Запустить бонус](https://gavrashenko.github.io/3d-lessons/lesson3/bonus.html)
 
+---
+
+### 👻 [Часть 4: треугольник невидимка](https://habr.com/ru/post/647171/)
+- треугольный полигон
+- нормаль
+
+[Запустить результат](https://gavrashenko.github.io/3d-lessons/lesson4/)
+
 
